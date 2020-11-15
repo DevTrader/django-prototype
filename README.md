@@ -4,7 +4,8 @@ pip install -r requirements.txt<br />
 
 ### To run:
 
-cd into ./core<br />
+source venv/Scripts/activate
+cd ./core<br />
 py manage.py runserver 8081<br />
 
 ### Apply migration if necessary:
